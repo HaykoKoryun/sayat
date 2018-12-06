@@ -1,0 +1,23 @@
+{
+  "name": "sayat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "bin": {
+    "sayat": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaykoKoryun/sayat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaykoKoryun/sayat/issues"
+  },
+  "homepage": "https://github.com/HaykoKoryun/sayat#readme"
+}
